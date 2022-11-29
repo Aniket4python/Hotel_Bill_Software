@@ -1,0 +1,22 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 407
+ Customer Name: julkar
+ Phone Number: 9920463126
+============================================
+ Orders			QTY	 Price
+============================================
+ TEA			4		60
+ Hot Coffee			7		175
+ Cold Coffee			6		180
+ Masala Tea			6		180
+ Milk			6		60
+ Shahi Pannir			4		450
+ Kadhi Pannir			7		1400
+ Hot Spring Roll			7		200
+--------------------------------------------
+Tea Tax				Rs:26.75
+Main Course Tax				Rs:92.5
+starter Tax				Rs:10.0
+Total Bill:				2714.25
+-------------------------------------------

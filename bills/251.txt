@@ -1,0 +1,18 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 251
+ Customer Name: aa
+ Phone Number: 77
+============================================
+ Orders			QTY	 Price
+============================================
+ Masala Tea			0		0
+ Kadhi Pannir			0		200
+ Platter			0		120
+ Hot Spring Roll			0		200
+--------------------------------------------
+Tea Tax				Rs:0.0
+Main Course Tax				Rs:10.0
+starter Tax				Rs:16.0
+Total Bill:				546.0
+-------------------------------------------

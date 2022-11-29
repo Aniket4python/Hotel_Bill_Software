@@ -1,0 +1,19 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 230
+ Customer Name: aa
+ Phone Number: 
+============================================
+ Orders			QTY	 Price
+============================================
+ TEA			1		15
+ Hot Coffee			1		25
+ Cold Coffee			1		30
+ Masala Tea			1		30
+ Milk			1		10
+--------------------------------------------
+Tea Tax				Rs:4.5
+Main Course Tax				Rs:0.0
+starter Tax				Rs:0.0
+Total Bill:				94.5
+-------------------------------------------

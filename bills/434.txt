@@ -1,0 +1,18 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 434
+ Customer Name: nitin kaka
+ Phone Number: 77777
+============================================
+Orders			QTY		Rs:
+============================================
+ TEA			1		15
+ Shahi Pannir			1		150
+ Tandoori			1		16
+ Manchurian			1		150
+--------------------------------------------
+Tea Tax				Rs:0.75
+Main Course Tax				Rs:16.6
+starter Tax				Rs:75.0
+Total Bill:				423.35
+-------------------------------------------

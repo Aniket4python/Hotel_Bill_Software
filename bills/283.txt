@@ -1,0 +1,15 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 283
+ Customer Name: vc
+ Phone Number: 123
+============================================
+ Orders			QTY	 Price
+============================================
+ TEA			1		15
+--------------------------------------------
+Tea Tax				Rs:0.75
+Main Course Tax				Rs:0.0
+starter Tax				Rs:0.0
+Total Bill:				15.75
+-------------------------------------------

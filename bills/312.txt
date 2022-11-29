@@ -1,0 +1,19 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 312
+ Customer Name: ani
+ Phone Number: 777
+============================================
+ Orders			QTY	 Price
+============================================
+ Platter			0		120
+ Hot Spring Roll			0		200
+ Manchurian			0		150
+ Masala Tea			0		60
+ Sweet Corn			0		60
+--------------------------------------------
+Tea Tax				Rs:0.0
+Main Course Tax				Rs:0.0
+starter Tax				Rs:29.5
+Total Bill:				619.5
+-------------------------------------------

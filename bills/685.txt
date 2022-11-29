@@ -1,0 +1,29 @@
+	 Welcome A.P Restaurant
+
+ Bill No: 685
+ Customer Name: 1
+ Phone Number: 1
+============================================
+Orders			QTY		Rs:
+============================================
+ TEA			1		15
+ Hot Coffee			1		25
+ Cold Coffee			1		30
+ Masala Tea			1		30
+ Milk			1		10
+ Shahi Pannir			1		150
+ Kadhi Pannir			1		200
+ Tandoori			1		16
+ Garlic Nan			1		36
+ Laccha Paratha			1		50
+ Platter			1		120
+ Hot Spring Roll			1		200
+ Manchurian			1		150
+ Masala Tea			1		60
+ Sweet Corn			11		660
+--------------------------------------------
+Tea Tax				Rs:4.5
+Main Course Tax				Rs:45.2
+starter Tax				Rs:595.0
+Total Bill:				2376.7
+-------------------------------------------
